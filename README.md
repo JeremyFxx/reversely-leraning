@@ -1,2 +1,2 @@
 # reversely-leraning
-The code for the paper "Recomputed fully-connected layers with non-iterative method in DCNN"
+The code for the review of paper "Recomputed fully-connected layers with non-iterative method in DCNN"
